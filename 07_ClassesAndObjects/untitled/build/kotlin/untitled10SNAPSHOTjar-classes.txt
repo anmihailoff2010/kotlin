@@ -1,0 +1,1 @@
+E:\Skillbox\kotlin\07_ClassesAndObjects\untitled\build\classes\kotlin\main\Channels.class;E:\Skillbox\kotlin\07_ClassesAndObjects\untitled\build\classes\kotlin\main\MainKt.class;E:\Skillbox\kotlin\07_ClassesAndObjects\untitled\build\classes\kotlin\main\TV$Companion.class;E:\Skillbox\kotlin\07_ClassesAndObjects\untitled\build\classes\kotlin\main\TV.class

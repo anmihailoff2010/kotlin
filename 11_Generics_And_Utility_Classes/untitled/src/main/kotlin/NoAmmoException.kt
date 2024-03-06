@@ -1,0 +1,1 @@
+class NoAmmoException : Throwable(message = "Патронов нет, пожалуйста, перезарядите!")
